@@ -1,15 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="acciones.cl" resolutions="1x" timestamp="1534265730208">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="acciones.cl" resolutions="1x" timestamp="1534430852778">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="103963062" ref="index"/>
+    <file name="index.css" crc="180947161" ref="index"/>
     <file name="nomq_index.css" crc="447369055" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="exito.css" crc="4253220764" ref="exito"/>
-    <file name="nomq_exito.css" crc="4042581577" ref="exito"/>
-    <file name="iefonts_exito.css" crc="3824530138" ref="exito"/>
-    <file name="mapa.css" crc="60796872" ref="mapa"/>
-    <file name="nomq_mapa.css" crc="3799691460" ref="mapa"/>
+    <file name="mapa.css" crc="3785385380" ref="mapa"/>
+    <file name="nomq_mapa.css" crc="4174031485" ref="mapa"/>
     <file name="iefonts_mapa.css" crc="3824530138" ref="mapa"/>
+    <file name="exito.css" crc="249222470" ref="exito"/>
+    <file name="nomq_exito.css" crc="532467344" ref="exito"/>
+    <file name="iefonts_exito.css" crc="3824530138" ref="exito"/>
+  </folder>
+  <folder name="assets">
+    <file name="etiqueta.pdf" crc="4184138737" seo="true" mt="1534429245000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mapa:exito"/>
@@ -19,6 +22,10 @@
     <file name="jquery.watch.js" crc="99325471" ref="index:mapa:exito"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:mapa:exito"/>
     <file name="require.js" crc="4157109226" ref="index:mapa:exito"/>
+    <file name="webpro.js" crc="242022427" ref="mapa"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="mapa"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="mapa"/>
+    <file name="touchswipe.js" crc="4066113679" ref="mapa"/>
   </folder>
   <folder name="images">
     <file name="imagen pegada 643x555.jpg" crc="375218192" seo="true" ref="index:mapa">
@@ -32,19 +39,31 @@
     <file name="u155-52.png" crc="12282830" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:mapa:exito"/>
     <file name="u868-5.png" crc="8069908" ref="mapa"/>
-    <file name="imagen pegada 714x485497x338.jpg" crc="248195981" seo="true" ref="mapa">
+    <file name="imagen pegada 634x488.jpg" crc="276086678" seo="true" ref="mapa">
       <caption webpage="mapa" alt=""/>
       <caption webpage="mapa" alt=""/>
     </file>
+    <file name="u1229.png" crc="272736400" ref="mapa"/>
+    <file name="u1229-a.png" crc="272736400" ref="mapa"/>
+    <file name="u1278.png" crc="272736400" ref="mapa"/>
+    <file name="u1278-a.png" crc="272736400" ref="mapa"/>
+    <file name="u1250.png" crc="272736400" ref="mapa"/>
+    <file name="u1250-a.png" crc="272736400" ref="mapa"/>
     <file name="u994-4.png" crc="3883265686" ref="mapa"/>
     <file name="u868-52.png" crc="12282830" ref="mapa"/>
+    <file name="u12782.png" crc="375966308" ref="mapa"/>
+    <file name="u1278-a2.png" crc="375966308" ref="mapa"/>
+    <file name="u12292.png" crc="375966308" ref="mapa"/>
+    <file name="u1229-a2.png" crc="375966308" ref="mapa"/>
+    <file name="u12502.png" crc="375966308" ref="mapa"/>
+    <file name="u1250-a2.png" crc="375966308" ref="mapa"/>
     <file name="u994-42.png" crc="3766110689" ref="mapa"/>
-    <file name="imagen pegada 768x340.jpg" crc="4005799778" seo="true" ref="exito">
+    <file name="etiqueta.jpg" crc="3894494609" seo="true" ref="exito">
       <caption webpage="exito" alt=""/>
       <caption webpage="exito" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3781387331" seo="true" mt="1534261373697" redirect="true"/>
-  <file name="mapa.html" crc="74965045" seo="true" mt="1534265699231" redirect="true"/>
-  <file name="exito.html" crc="336490830" seo="true" mt="1534265441030" redirect="true"/>
+  <file name="index.html" crc="424050017" seo="true" mt="1534261373697" redirect="true"/>
+  <file name="mapa.html" crc="450108142" seo="true" mt="1534430817620" redirect="true"/>
+  <file name="exito.html" crc="3781084971" seo="true" mt="1534430625278" redirect="true"/>
 </manifest>
